@@ -6,7 +6,7 @@
 
 ---
 
-This fork adapts the extension to run on Firefox with the minimum changes necessary to make it compatible. No features have been added or removed — behavior is identical to the original.
+This fork adapts the extension to run on Firefox with the minimum changes necessary to make it compatible. The only new feature is a GNOME notification system.
 
 ![Gemini Usage Bar Icon](icon.png)
 
